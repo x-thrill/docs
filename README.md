@@ -1,0 +1,2 @@
+# docs
+XThrill Docs
